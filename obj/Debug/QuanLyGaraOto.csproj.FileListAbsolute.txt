@@ -1,0 +1,479 @@
+E:\Part time\New Project\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+E:\Part time\New Project\QuanLyGaraOto\bin\QuanLyGaraOto.dll.config
+E:\Part time\New Project\QuanLyGaraOto\bin\QuanLyGaraOto.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\QuanLyGaraOto.pdb
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csc.exe
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csc.exe.config
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csc.rsp
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csi.exe
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csi.exe.config
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\csi.rsp
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.AppContext.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Collections.Immutable.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Console.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.IO.Compression.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.IO.FileSystem.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.IO.Pipes.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Reflection.Metadata.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.AccessControl.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Claims.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.ValueTuple.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Xml.XPath.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\vbc.exe
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\vbc.exe.config
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\vbc.rsp
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\VBCSCompiler.exe
+E:\Part time\New Project\QuanLyGaraOto\bin\roslyn\VBCSCompiler.exe.config
+E:\Part time\New Project\QuanLyGaraOto\bin\Antlr3.Runtime.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\EntityFramework.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\EntityFramework.SqlServer.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\Microsoft.Web.Infrastructure.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\Newtonsoft.Json.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Helpers.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Mvc.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Optimization.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Razor.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.Deployment.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.Razor.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\WebGrease.dll
+E:\Part time\New Project\QuanLyGaraOto\bin\EntityFramework.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\EntityFramework.SqlServer.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Helpers.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Mvc.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Optimization.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.Razor.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.Deployment.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\System.Web.WebPages.Razor.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\Newtonsoft.Json.xml
+E:\Part time\New Project\QuanLyGaraOto\bin\Antlr3.Runtime.pdb
+E:\Part time\New Project\QuanLyGaraOto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Part time\New Project\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+E:\Part time\New Project\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.dll
+E:\Part time\New Project\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.pdb
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\QuanLyGaraOto.dll.config
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\QuanLyGaraOto.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\QuanLyGaraOto.pdb
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csc.exe
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csc.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csc.rsp
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csi.exe
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csi.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\csi.rsp
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.AppContext.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Console.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.IO.Compression.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Claims.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.ValueTuple.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\vbc.exe
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\vbc.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\vbc.rsp
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\VBCSCompiler.exe
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Antlr3.Runtime.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\EntityFramework.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\EntityFramework.SqlServer.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Newtonsoft.Json.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Helpers.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Mvc.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Optimization.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Razor.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.Razor.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\WebGrease.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\EntityFramework.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\EntityFramework.SqlServer.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Helpers.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Mvc.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Optimization.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.Razor.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\System.Web.WebPages.Razor.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Newtonsoft.Json.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Antlr3.Runtime.pdb
+C:\Users\84394\Desktop\QuanLyGaraOto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84394\Desktop\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+C:\Users\84394\Desktop\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+C:\Users\84394\Desktop\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+C:\Users\84394\Desktop\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.dll
+C:\Users\84394\Desktop\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.pdb
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll.config
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.pdb
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csc.exe
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csc.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csc.rsp
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csi.exe
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csi.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\csi.rsp
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.AppContext.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Console.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Compression.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Claims.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.ValueTuple.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\vbc.rsp
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\EntityFramework.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Helpers.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Mvc.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Optimization.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Razor.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\WebGrease.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\EntityFramework.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Helpers.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Mvc.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Optimization.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.Razor.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.pdb
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.dll
+C:\Users\84394\Desktop\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.pdb
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll.config
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.pdb
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.dll
+C:\Users\ADMIN\OneDrive\Desktop\game_html\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.pdb
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll.config
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.pdb
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\EntityFramework.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\WebGrease.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\EntityFramework.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.dll
+C:\Users\Admin\Documents\QuanLyGaraOtocnpm\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.pdb
+C:\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll.config
+C:\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.dll
+C:\QuanLyGaraOtocnpm\bin\QuanLyGaraOto.pdb
+C:\QuanLyGaraOtocnpm\bin\roslyn\csc.exe
+C:\QuanLyGaraOtocnpm\bin\roslyn\csc.exe.config
+C:\QuanLyGaraOtocnpm\bin\roslyn\csc.rsp
+C:\QuanLyGaraOtocnpm\bin\roslyn\csi.exe
+C:\QuanLyGaraOtocnpm\bin\roslyn\csi.exe.config
+C:\QuanLyGaraOtocnpm\bin\roslyn\csi.rsp
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\QuanLyGaraOtocnpm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.AppContext.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Collections.Immutable.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Console.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Compression.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.IO.Pipes.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Reflection.Metadata.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.AccessControl.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Claims.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.ValueTuple.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe
+C:\QuanLyGaraOtocnpm\bin\roslyn\vbc.exe.config
+C:\QuanLyGaraOtocnpm\bin\roslyn\vbc.rsp
+C:\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe
+C:\QuanLyGaraOtocnpm\bin\roslyn\VBCSCompiler.exe.config
+C:\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.dll
+C:\QuanLyGaraOtocnpm\bin\EntityFramework.dll
+C:\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.dll
+C:\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\QuanLyGaraOtocnpm\bin\Microsoft.Web.Infrastructure.dll
+C:\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.Helpers.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.Mvc.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.Optimization.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.Razor.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.dll
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.dll
+C:\QuanLyGaraOtocnpm\bin\WebGrease.dll
+C:\QuanLyGaraOtocnpm\bin\EntityFramework.xml
+C:\QuanLyGaraOtocnpm\bin\EntityFramework.SqlServer.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.Helpers.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.Mvc.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.Optimization.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.Razor.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Deployment.xml
+C:\QuanLyGaraOtocnpm\bin\System.Web.WebPages.Razor.xml
+C:\QuanLyGaraOtocnpm\bin\Newtonsoft.Json.xml
+C:\QuanLyGaraOtocnpm\bin\Antlr3.Runtime.pdb
+C:\QuanLyGaraOtocnpm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.AssemblyReference.cache
+C:\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+C:\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.csproj.CopyComplete
+C:\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.dll
+C:\QuanLyGaraOtocnpm\obj\Debug\QuanLyGaraOto.pdb
